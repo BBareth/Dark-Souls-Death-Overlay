@@ -1,0 +1,56 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake cache and files
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+cmake_install.cmake
+*.cmake
+
+# IDE and editor files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.exe
+*.dll
+*.exe.manifest
+
+# Dependencies and generated files
+build/_deps/
+CPM_modules/
+
+# Geode build artifacts
+*.geode
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Python and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Local environment variables
+.env
+.env.local
