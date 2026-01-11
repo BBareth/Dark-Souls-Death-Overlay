@@ -40,6 +40,7 @@ CPM_modules/
 
 # Geode build artifacts
 *.geode
+.geode_cache/
 
 # OS specific
 Thumbs.db
