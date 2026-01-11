@@ -26,7 +26,3 @@ A lightweight Geode mod that shows a full-screen fade-in "YOU DIED" overlay with
 - Overlay constructed with `CCLayerColor` from bottom-left (0,0) to cover `winSize`.
 - Label is centered and faded in; both nodes are removed before continuing reset.
 - No camera or player icon manipulation; default behavior preserved.
-
-## Limitations
-
-- Geometry Dash/Cocos2d-x does not support embedded video playback; this mod uses UI overlay + audio to emulate the effect.

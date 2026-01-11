@@ -5,11 +5,11 @@
         "android": "2.206"
     },
     "version": "v1.0.0",
-    "id": "com.yourname.darksoulsdeath",
+    "id": "com.exilium.darksoulsdeath",
     "name": "Dark Souls Death Overlay",
-    "developer": "YourName",
+    "developer": "Exilium",
     "description": "Adds a Dark Souls-style 'YOU DIED' overlay that fades to black when you die, then resets the level after 2 seconds",
-    "repository": "https://github.com/yourusername/darksouls-death-overlay",
+    "repository": "https://github.com/BBareth/Dark-Souls-Death-Overlay",
     "resources": {
         "files": [
             "resources/audio/you_died.ogg"
